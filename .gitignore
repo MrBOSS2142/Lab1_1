@@ -1,2 +1,6 @@
 $ cat .gitignore
+<<<<<<< HEAD:.gitignore
 *.jpg
+=======
+*.jpg
+>>>>>>> test:.gitignore
